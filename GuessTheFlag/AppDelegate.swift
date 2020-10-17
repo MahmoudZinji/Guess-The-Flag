@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GuessTheFlag
 //
-//  Created by User on 10/17/20.
+//  Created by Mahmoud Zinji on 10/17/20.
 //
 
 import UIKit
